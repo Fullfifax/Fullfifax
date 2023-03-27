@@ -38,6 +38,6 @@
 ----------------------------------------------------------------------------------------------------------------------------------------------- | --------------------------- |
 [![Fullfifax's github stats](https://github-readme-stats.vercel.app/api?username=fullfifax&show_icons=true&theme=dark)](https://github.com/fullifax) | [![Fullfifax's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fullfifax&show_icons=true&layout=compact&hide=css,html)](https://github.com/fullfifax)  
   
-   ![footer](https://capsule-render.vercel.app/api?type=wave&color=#1d61d8&height=300&section=footer&fontSize=25&align="center")
+   ![footer](https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=footer&fontSize=30&align="center"&text=Misaotra%20e)
   
 </div>
