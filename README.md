@@ -39,5 +39,5 @@
 [![Fullfifax's github stats](https://github-readme-stats.vercel.app/api?username=fullfifax&show_icons=true&theme=dark)](https://github.com/fullifax) | [![Fullfifax's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fullfifax&show_icons=true&layout=compact&hide=css,html)](https://github.com/fullfifax)  
   
    ![footer](https://capsule-render.vercel.app/api?type=wave&color=#282829&height=300&section=footer&fontSize=30&align="center")
-  ![Snake animation](https://github.com/thepiyushmalhotra/thepiyushmalhotra/blob/output/github-contribution-grid-snake.svg)
+  ![Snake animation](https://github.com/fullfifax/fullfifax/blob/output/github-contribution-grid-snake.svg)
 </div>
