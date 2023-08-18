@@ -4,7 +4,7 @@
   Salama tompoko ô 🇲🇬
 </h1>
 <p align="center">
-  I'm Fenofifaliana (Fullfifax),
+  I'm Fenofifaliana (Fullfifax 🇲🇬),
   I am a developer who is constantly driven to create and innovate, fueled by my passion for technology and the endless possibilities it presents.
 </p>
 
