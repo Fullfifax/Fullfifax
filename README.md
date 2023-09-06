@@ -18,12 +18,6 @@
 
 <br/>
 
-<div align="center">
-  
-![](https://github-readme-streak-stats.herokuapp.com/?user=fullfifax&theme=nord&hide_border=false)
-  
-</div>
-
 <div id="badges" align="center">
   <a href="https://www.linkedin.com/in/fenofifaliana-rafanomezantsoa-b87316211/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
