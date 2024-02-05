@@ -12,7 +12,7 @@
 
 <div align="center">
   
-  ![Technologies](https://skillicons.dev/icons?i=html,css,bootstrap,sass,javascript,react,vuejs,mongodb,nodejs,php,symfony,mysql,java,py,github,wordpress,webflow,linux,discord,postman)
+  ![Technologies](https://skillicons.dev/icons?i=html,css,bootstrap,sass,javascript,react,mongodb,nodejs,php,symfony,mysql,java,py,github,wordpress,webflow,linux,discord,postman)
   
 </div>
 
